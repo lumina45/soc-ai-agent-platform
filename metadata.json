@@ -1,0 +1,6 @@
+{
+  "name": "SOC AI Agent Platform",
+  "description": "An AI-powered orchestration platform for Security Operations Centers (SOC) that automates threat hunting, incident triage, and playbook orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
